@@ -1,10 +1,9 @@
 ---
-title: API Reference
+title: Stillio API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
   - ruby
-  - python
   - javascript
 
 toc_footers:
@@ -19,7 +18,7 @@ search: true
 code_clipboard: true
 ---
 
-# Introduction
+# Introduction 
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
